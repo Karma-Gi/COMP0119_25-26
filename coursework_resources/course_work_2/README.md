@@ -1,4 +1,4 @@
-# Coursework 2 F&Q list
+# Coursework 2 FAQ
 
 
 1. Gaussian curvature: Gaussian curvature only depends on angle deficit AND your A_i. the choices of A_i include Barycentric area and Voronoi area. 
