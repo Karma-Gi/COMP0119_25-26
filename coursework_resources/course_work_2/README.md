@@ -3,9 +3,8 @@
 
 1. Gaussian curvature: Gaussian curvature only depends on angle deficit AND your A_i. the choices of A_i include Barycentric area and Voronoi area. 
 
-2. curvature visualization: It's best to use matplotlib colourmaps. example 
+2. curvature visualization: It's best to use a matplotlib diverging colourmap. Be careful that zero curvature corresponds to the middle of the colourmap.
 https://stackoverflow.com/questions/15140072/how-to-map-number-to-color-using-matplotlibs-colormap 
-   <img src="https://libigl.github.io/images/bumpy-gaussian-curvature.jpg" height="250">
 
 3. Eigenvectors of the Laplace-Beltrami : please use cotangent version
 
