@@ -3,7 +3,7 @@
 
 1. Gaussian curvature: Gaussian curvature only depends on angle deficit AND your A_i. the choices of A_i include Barycentric area and Voronoi area. 
 
-2. curvature visualization: a basic version is to show the difference between flat area and complex area. 
+2. curvature visualization: It's best to use matplotlib colourmaps. example 
 https://stackoverflow.com/questions/15140072/how-to-map-number-to-color-using-matplotlibs-colormap 
    <img src="https://libigl.github.io/images/bumpy-gaussian-curvature.jpg" height="250">
 
